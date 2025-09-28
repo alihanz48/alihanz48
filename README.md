@@ -12,7 +12,7 @@
 ## 🌐 Sosyal Medya
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihan-dursun)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alihanz48)  
-[![Email](https://img.shields.io/badge/Email-dursun.alihan@icloud.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dursun.alihan@icloud.com)  
+[![Email](https://img.shields.io/badge/Email-dursun.alihan@icloud.com-red?&logo=icloud&logoColor=white)](mailto:dursun.alihan@icloud.com)  
 
 ---
 
