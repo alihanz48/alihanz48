@@ -16,16 +16,25 @@
 [![Gmail](https://img.shields.io/badge/Gmail-dursunalihan@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dursunalihan@gmail.com)  
 ---
 
-## 🛠️ Teknolojiler & Araçlar
+## 🛠 Teknoloji ve Araçlar
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![.NET Core MVC](https://img.shields.io/badge/.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-008080?style=for-the-badge)
+![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Link-ORM](https://img.shields.io/badge/Link-ORM-FF7F00?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Telekomünikasyon](https://img.shields.io/badge/Telekomünikasyon-FF7F00?style=for-the-badge)
+![Network](https://img.shields.io/badge/Network-008000?style=for-the-badge)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge)
 ---
 
 ## 🚀 Öne Çıkan Projeler
