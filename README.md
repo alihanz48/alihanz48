@@ -39,9 +39,7 @@
 
 ## 🚀 Öne Çıkan Projeler
 - 🛒 **Kullanıcı & Ürün Yönetimi REST API** – JWT tabanlı kimlik doğrulama, ürün CRUD işlemleri  
-- 🍽 **Yemek Tarifleri Web Uygulaması** – ASP.NET Core MVC, Bootstrap arayüz  
-- 📡 **Bitirme Projesi: Uydu İletişim Sistemleri** – IoT cihazlarından veri iletişimi prototipi  
-
+- 🍽 **Yemek Tarifleri Web Uygulaması** – ASP.NET Core MVC, Bootstrap arayüz   
 ---
 
 ## 📊 GitHub İstatistikleri
@@ -56,4 +54,4 @@
 ---
 
 <!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ff7f00&height=100&section=footer)
+![Footer]([https://capsule-render.vercel.app/api?type=waving&color=ff7f00&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer))
