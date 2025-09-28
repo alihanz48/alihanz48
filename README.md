@@ -1,5 +1,5 @@
 <!-- Profil Banner -->
-![Alihan Dursun Banner](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Alihan%20Dursun&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&rotate=0)
+![Alihan Dursun Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Alihan%20Dursun)
 
 # 👋 Merhaba, Ben Alihan Dursun  
 
@@ -54,4 +54,4 @@
 ---
 
 <!-- Footer Banner -->
-![Footer]([https://capsule-render.vercel.app/api?type=waving&color=ff7f00&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer))
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer)
