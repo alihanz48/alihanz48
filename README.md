@@ -40,9 +40,9 @@
 ## 🚀 Öne Çıkan Projeler
 - 🍽 **Yemek Tarifleri Web Uygulaması** – ASP.NET Core MVC ve Javascript&Ajax, Html,css,Bootstrap arayüz
 - 🛒 **Kullanıcı & Ürün Yönetimi REST API** – JWT tabanlı kimlik doğrulama, ürün&kullanıcı CRUD işlemleri  
-- 🍽 **BlogApp-.NET_Core_MVC-WebSite** – ASP.NET Core MVC ve Javascript&Ajax, Html,css,Bootstrap arayüz
-- 🍽 **To_Do_List-Web-NODE.JS** – Node.Js, Html,css,Bootstrap arayüz
-- 🍽 **Blog_Site-NODE.JS-** – Node.Js, Html,css,Bootstrap arayüz
+- 📝 **BlogApp-.NET_Core_MVC-WebSite** – ASP.NET Core MVC ve Javascript&Ajax, Html,css,Bootstrap arayüz
+- 🧾 **To_Do_List-Web-NODE.JS** – Node.Js, Html,css,Bootstrap arayüz
+- ✍🏻 **Blog_Site-NODE.JS-** – Node.Js, Html,css,Bootstrap arayüz
 ---
 
 ## 📊 GitHub İstatistikleri
