@@ -23,7 +23,7 @@
 ![REST API](https://img.shields.io/badge/REST_API-008080?style=for-the-badge)
 ![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Link-ORM](https://img.shields.io/badge/Link-ORM-FF7F00?style=for-the-badge)
+![LINQ-ORM](https://img.shields.io/badge/Link-ORM-FF7F00?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
