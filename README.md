@@ -6,7 +6,7 @@
 🎓 Mehmet Akif Ersoy Üniversitesi – **Bilişim Sistemleri ve Teknolojileri (2022–2026)**  
 💻 Yazılım geliştirici adayıyım, gerçek projelerle kendimi geliştiriyorum.  
 📡 Bitirme projemde **Yapay Zeka Destekli ve Web Tabanlı Haber Toplama, Filtreleme ve Gündem Analizi yapan web sitesi** üzerine çalışıyorum.  
-
+[![Website](https://img.shields.io/badge/Website-Ziyaret_Et-blue?style=for-the-badge&logo=google-chrome)](https://www.alihandursun.com)
 ---
 
 ## 🌐 Sosyal Medya
