@@ -6,14 +6,14 @@
 🎓 Mehmet Akif Ersoy Üniversitesi – **Bilişim Sistemleri ve Teknolojileri (2022–2026)**  
 💻 Yazılım geliştirici adayıyım, gerçek projelerle kendimi geliştiriyorum.  
 📡 Bitirme projemde **Yapay Zeka Destekli ve Web Tabanlı Haber Toplama, Filtreleme ve Gündem Analizi yapan web sitesi** üzerine çalışıyorum.  
-[![Website](https://img.shields.io/badge/WEB_SİTESİNİ_GÖRÜNTÜLEMEK_İÇİN-BURAYA_TIKLAYIN-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.alihandursun.com)
 ---
 
 ## 🌐 Sosyal Medya
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihan-dursun)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alihanz48)  
 [![İcloud](https://img.shields.io/badge/İcloud-dursun.alihan@icloud.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dursun.alihan@icloud.com)  
-[![Gmail](https://img.shields.io/badge/Gmail-dursunalihan@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dursunalihan@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-dursunalihan@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dursunalihan@gmail.com)
+[![Website](https://img.shields.io/badge/WEB_SİTESİNİ_GÖRÜNTÜLEMEK_İÇİN-BURAYA_TIKLAYIN-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.alihandursun.com)
 ---
 
 ## 🛠 Teknoloji ve Araçlar
