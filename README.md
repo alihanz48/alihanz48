@@ -4,8 +4,11 @@
 # 👋 Merhaba, Ben Alihan Dursun  
 
 🎓 Mehmet Akif Ersoy Üniversitesi – **Bilişim Sistemleri ve Teknolojileri (2022–2026)**  
+
 💻 Yazılım geliştirici adayıyım, gerçek projelerle kendimi geliştiriyorum.  
+
 📡 Bitirme projemde **Yapay Zeka Destekli ve Web Tabanlı Haber Toplama, Filtreleme ve Gündem Analizi yapan web sitesi** üzerine çalışıyorum.  
+
 ---
 
 ## 🌐 Sosyal Medya
